@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgba(9, 255, 0, 0.712);
+    background-color: rgba(21, 197, 15, 0.735);
     margin: 4rem;
     margin-top: 0px;
     text-align: center;
@@ -47,8 +47,8 @@ nav{
     color: white;
 }
 .white{
-    color: black;
-    background-color: white;
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 255, 0);
 }
 
 /* texto e interatividade*/
