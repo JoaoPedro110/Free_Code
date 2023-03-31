@@ -64,3 +64,8 @@ a:hover{
     background-color: black;
     color: rgb(143, 143, 143);
 }
+
+/* Background */
+.background {
+    background: url(img/imagem\ 0.jpg);
+}
