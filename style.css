@@ -70,3 +70,20 @@ a:hover{
     background: url(img/wallpaper.png);
     background-repeat: no-repeat;
 }
+
+.background2 {
+    background: url(img/wallpaper2.png);
+    background-repeat: no-repeat;
+}
+.background3 {
+    background: url(img/wallpaper3.png);
+    background-repeat: no-repeat;
+}
+.background4 {
+    background: url(img/wallpaper2.png);
+    background-repeat: no-repeat;
+}
+.background5 {
+    background: url(img/wallpaper3.png);
+    background-repeat: no-repeat;
+}
