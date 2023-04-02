@@ -8,49 +8,47 @@ body{
     color: white;
 
 }
-nav a{
-    text-decoration: none;
-    font-size: 2rem;
-    color: white;
-    width: auto;
-    height: auto;
-    border-radius: 5px;
-    padding: .5rem;
-    margin-left: 1rem;
-    margin-top: 2rem;
-    border: solid white 1px;
-}
 
-nav{
-    margin-top: 3rem;
-    display: flex;
-    flex-direction: column;
-}
+
+
 
 .blue{
     background-color: blue;
     color: white;
+    text-decoration: none;
 }
 
 .goldenrod{
     background-color: goldenrod;
     color: white;
+    text-decoration: none;
 }
 
 .purple{
     background-color: purple;
     color: white;
+    text-decoration: double;
 }
 
 .green{
     background-color: green;
     color: white;
+    text-decoration: none;
 }
 .white{
     color: rgb(255, 255, 255);
-    background-color: rgb(3, 226, 255);
+    background-color: rgb(0, 255, 234);
+    text-decoration: none;
 }
-
+.a{
+    margin-top: 1rem;
+    height: 1.rem;
+    width: 100%;
+    border-radius: 5%;
+    text-align: center;
+    text-decoration: none;
+    
+}
 /* texto e interatividade*/
 h1{
     font-size: 3rem;
@@ -72,18 +70,50 @@ a:hover{
 }
 
 .background2 {
-    background: url(img/wallpaper2.png);
+    background: url(img/wallpaper5.png);
     background-repeat: no-repeat;
 }
 .background3 {
-    background: url(img/wallpaper3.png);
+    background: url(img/wallpaper.png);
     background-repeat: no-repeat;
 }
 .background4 {
-    background: url(img/wallpaper2.png);
+    background: url(img/wallpaper4.png);
     background-repeat: no-repeat;
 }
 .background5 {
-    background: url(img/wallpaper3.png);
+    background: url(img/wallpaper5.png);
     background-repeat: no-repeat;
+/*Fim do Background*/ 
+}
+.modulos1 {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    font-size: 2rem;
+    color: white;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    padding: .5rem;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+/*ID*/
+
+#borda {
+    border: solid white 1px;
+}
+/*Cabeçario*/
+.cabeçario {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    padding: .5rem;
+    margin-left: 1rem;
+    margin-top: 2rem;
 }
